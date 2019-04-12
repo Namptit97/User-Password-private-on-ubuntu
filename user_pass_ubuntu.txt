@@ -1,0 +1,14 @@
+					
+1. login ubuntu	namphc@Ptit		huynam
+2. github	phamhuynam17091997@gmail.com	huynam97	username đăng nhập để push Namptit97 pass huynam97
+3. mysql -u root -p	pass: huynam
+4. phy admin	user: root 	pass: huynam
+5. wordpress	user: wordpressuser	pass: wordpresspass
+6. mqtt		user: huynam		pass: huynam	
+
+
+Guide bai 4 THCS tao 1 database trong mysql để lưu data 1 là sensors, 2 là accounts để lưu user pass khi đăng nhập vào login
+
+1 Tạo database thcsb4;
+2 Tạo table accounts: create table accounts(id int(10) primary key auto_increment, username varchar(100) not null, password varchar(100) not null, email varchar(100) not null) values('huynam','huynam','phamhuynam17091997@gmail.com'));
+
