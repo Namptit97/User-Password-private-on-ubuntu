@@ -5,7 +5,7 @@
 4. phy admin	user: root 	pass: huynam
 5. wordpress	user: wordpressuser	pass: wordpresspass
 6. mqtt		user: huynam		pass: huynam	
-
+7. fb		ptit@17091997a
 
 Guide bai 4 THCS tao 1 database trong mysql để lưu data 1 là sensors, 2 là accounts để lưu user pass khi đăng nhập vào login
 
